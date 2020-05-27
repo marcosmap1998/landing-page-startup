@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.logo{
+    height: 50px;
+}
+
+.navbar-nav li a{
+    color: #fff !important;
+}
+
+.title-servicios{
+    text-align: center;
+}
+
+textarea{
+    resize: none;
+}
+
+footer{
+    color: #fff;
+    background: #292b2c;
+}
+
+
